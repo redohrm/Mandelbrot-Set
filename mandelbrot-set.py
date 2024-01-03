@@ -45,11 +45,11 @@ over = False
 
 # This function handles newly selected x and y dimensions
 def on_click(event):
-    global list
+    global my_list
     global count
 
     # If the user has aready selected two new points, clear out the list and restart the process
-    if len(list) >= 4:
+    if len(my_list) >= 4:
         list.clear()
         count = 0
 
