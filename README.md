@@ -8,3 +8,5 @@ The following figures display this concept:
 ![mandelbrot3](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/a81e0dc1-d9f0-424f-a8e0-ad98cfb2c99b)
 
 ![mandelbrot4](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/9e934690-4ac0-49e2-8c70-90acf3b444c2)
+
+![mandelbrot5](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/c224073b-85e4-432d-a8b9-030f01459350)
