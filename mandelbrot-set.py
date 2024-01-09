@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Programmer: Ruth Dohrmann
 # Description: This program generates and displays the Mandelbrot set. The program allows
 # the user to click on two points within the graph to generate new x and y minimum and
