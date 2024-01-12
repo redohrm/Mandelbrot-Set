@@ -12,3 +12,5 @@ The following figures display this concept:
 ![mandelbrot5](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/c224073b-85e4-432d-a8b9-030f01459350)
 
 ![mandelbrot6](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/130b308c-ee10-478e-b260-a6c307e495b8)
+
+![mandelbrot7](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/bcc13f63-e56e-41c0-b89c-10bc955f60c5)
