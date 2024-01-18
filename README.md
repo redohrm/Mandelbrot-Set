@@ -16,3 +16,5 @@ The following figures display this concept:
 ![mandelbrot7](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/bcc13f63-e56e-41c0-b89c-10bc955f60c5)
 
 ![mandelbrot8](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/f7f237a7-143a-4718-bb2b-f90f94ba2f13)
+
+![mandelbrot9](https://github.com/redohrm/Mandelbrot-Set/assets/149263840/229409c6-7f6b-48a6-9d50-e699a3e3e829)
